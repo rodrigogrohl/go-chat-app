@@ -1,1 +1,4 @@
-# go-chat-app
+# GO Chat App
+
+- Reference: https://github.com/matryer/goblueprints/  
+- 
